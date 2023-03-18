@@ -1,39 +1,18 @@
-{
-  "num_found": 884885,
-  "total_cost": 1,
-  "records": [
-    {
-      "asins": [
-        "B010XYTFM6"
-      ],
-      "brand": "inktastic",
-      "categories": [
-        "Novelty",
-        "Tops & Tees",
-        "Novelty & More",
-        "Women",
-        "Clothing, Shoes & Jewelry",
-        "T-Shirts",
-        "Clothing"
-      ],
-      "dateAdded": "2015-11-09T01:55:09Z",
-      "dateUpdated": "2016-04-12T16:19:26Z",
-      "imageURLs": [
-        "http://ecx.images-amazon.com/images/I/41W6xSgsBbL._SX342_QL70_.jpg",
-        "http://ecx.images-amazon.com/images/I/41StiamgorL._SR38,50_.jpg",
-        "http://ecx.images-amazon.com/images/I/41StiamgorL._SX342_QL70_.jpg",
-        "http://ecx.images-amazon.com/images/I/41W6xSgsBbL._SR38,50_.jpg"
-      ],
-      "keys": [
-        "inktasticwomensbutterflybanjochickjuniorvnecktshirts/b010xytfm6"
-      ],
-      "name": "Inktastic Women's Butterfly Banjo Chick Junior V-neck T-shirts",
-      "sourceURLs": [
-        "http://www.amazon.com/Inktastic-Womens-Butterfly-Junior-T-Shirts/dp/B010XYTK1W",
-        "http://www.amazon.com/Inktastic-Womens-Butterfly-Junior-T-Shirts/dp/B016HKYYN0",
-        "http://www.amazon.com/Inktastic-Butterfly-T-Shirts-Athletic-Heather/dp/B016HKYPYS"
-      ],
-      "id": "AVkzMzokUmTPEltRlaJ_"
+ [
+   {
+     "id":1,
+     "title":"ABC",
+     "price":"500$",
+     "category":"Men",
+     "description":"All Clothes are Comfertable",
+     "image":""
+   },
+   {
+     "id":2,
+     "title":"DEF",
+     "price":"1000$",
+     "category":"Women",
+     "description":"Very Good Quality",
+     "image":""
     }
-  ]
-}
+ ]
