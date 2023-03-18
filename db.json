@@ -21,28 +21,6 @@
   },
   {
     "imageCredit": {
-      "artist": "Patrick Fore",
-      "link": "http://www.resplashed.com/photographer/patrick_fore/"
-    },
-    "tags": [
-      "Beach",
-      "Ocean",
-      "Water"
-    ],
-    "imageUrl": "http://www.resplashed.com/img/400_00b425ea69e0.jpg",
-    "filename": "400_00b425ea69e0.jpg",
-    "imageHash": "9197d084a8309c5cc1c1860063bc4dda",
-    "price": 19.99,
-    "name": "Rustic Beach Mug",
-    "description": "totam at veritatis eligendi assumenda ex quia praesentium quibusdam ducimus",
-    "slug": "Rustic-Beach-Mug",
-    "added": 1481573896833,
-    "manufacturer": "Sipes-Inc",
-    "itemType": "mug",
-    "productImg": "mug-400_00b425ea69e0.jpg"
-  },
-  {
-    "imageCredit": {
       "artist": "Adam Willoughby-Knox",
       "link": "http://www.resplashed.com/photographer/adam_willoughby-knox/"
     },
